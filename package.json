@@ -1,0 +1,17 @@
+{
+  "name": "dhiaa-al-mustaqbal-school",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "seed": "tsx scripts/seed.ts"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "^1.0.0",
+    "bcryptjs": "^3.0.2"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3"
+  }
+}
